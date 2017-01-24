@@ -8,6 +8,20 @@ html lang="en"
     // Stylesheet
     link rel="stylesheet" href="/css/app.css"
   body
+
+    .nav-container
+      nav.navbar.navbar-toggleable-md.navbar-light.bg-faded
+        a.navbar-brand target="_blank" href="https://github.com/0xFireball/Paste"
+          | Paste
+        .collapse.navbar-collapse#navbarSupportedContent
+          ul.navbar-nav mr-auto=""
+            li.nav-item active=""
+              a.nav-link href="#"
+                | Home
+            li.nav-item
+              a.nav-link href="#"
+                | About
+
     section.intro
       .container
         h1 Hello World!
