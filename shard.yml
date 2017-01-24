@@ -12,6 +12,8 @@ dependencies:
   kemal:
     github: kemalcr/kemal
     branch: master
+  slang:
+    github: jeromegn/slang
 
 crystal: 0.20.4
 

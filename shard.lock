@@ -16,3 +16,7 @@ shards:
     github: luislavena/radix
     version: 0.3.6
 
+  slang:
+    github: jeromegn/slang
+    version: 1.4.1
+

@@ -1,5 +1,6 @@
 require "kemal"
+require "kilt/slang"
 
 get "/" do
-  render "./src/views/index.html.ecr"
+  render "./src/views/index.slang"
 end
