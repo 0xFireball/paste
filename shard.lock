@@ -2,21 +2,17 @@ version: 1.0
 shards:
   kemal:
     github: kemalcr/kemal
-    commit: b07dd04372874e1fc039f84fde2c98032861417b
+    commit: 1d056b203b8a4551cab37fc8c975151a228e3c66
 
   kilt:
     github: jeromegn/kilt
-    version: 0.3.3
-
-  multipart:
-    github: RX14/multipart.cr
-    version: 0.1.2
+    version: 0.4.0
 
   radix:
     github: luislavena/radix
-    version: 0.3.6
+    version: 0.3.8
 
   slang:
     github: jeromegn/slang
-    version: 1.4.1
+    version: 1.6.1
 
