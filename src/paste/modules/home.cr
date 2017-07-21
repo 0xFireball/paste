@@ -2,5 +2,5 @@ require "kemal"
 require "kilt/slang"
 
 get "/" do
-  render "./src/views/index.slang"
+  render "./client/dist/index.html"
 end
